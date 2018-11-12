@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MyMit-6.824
 
 # Distributed-Systems
@@ -13,6 +13,7 @@ MIT课程[《Distributed Systems 》](http://nil.csail.mit.edu/6.824/2016/schedu
 + [awesome-distributed-systems](https://github.com/kevinxhuang/awesome-distributed-systems)
 + [一名分布式存储工程师的技能树是怎样的？](https://www.zhihu.com/question/43687427/answer/96306564)
 + [袖珍分布式系统](http://www.jianshu.com/c/0cf64976a481)
-=======
+
+
 # MyMit-6.824
->>>>>>> d95c7cc406932dd49ad5aeb1ad3658fa425ee363
+
